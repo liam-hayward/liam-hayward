@@ -6,6 +6,8 @@ I have 7+ years of hands-on digital marketing experience across in-house and age
 
 I find what isn’t working, and I fix it. I improve websites so they are easy to crawl, understand, and trust for both people and search systems – turning search visibility into real business value and technical performance into growth.
 
+<a href=https://liamhayward.co.uk/>liamhayward.co.uk</a>
+
 <!--
 **liam-hayward/liam-hayward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
