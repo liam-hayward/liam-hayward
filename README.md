@@ -1,4 +1,4 @@
-### liam hayward | seo specialist 🔍
+# liam hayward | seo specialist 🔍
 
 I’m Liam Hayward, an SEO specialist and digital marketer based in the UK.
 
