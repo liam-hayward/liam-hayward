@@ -1,4 +1,9 @@
+
 # liam hayward | seo specialist 🔍
+
+*seo that works, technically.*
+
+---
 
 I’m Liam Hayward, an SEO specialist and digital marketer based in the UK.
 
@@ -6,9 +11,15 @@ I have 7+ years of hands-on digital marketing experience across in-house and age
 
 Finding what isn’t working and fixing it, I improve websites so they are easy to crawl, understand, and trust for both people and search systems – turning search visibility into real business value and technical performance into growth.
 
-<a href=https://liamhayward.co.uk/>liamhayward.co.uk</a>
+---
 
-<a href=https://uk.linkedin.com/in/liamhayward>add me on LinkedIn</a>
+`Technical SEO` &nbsp; `Site Architecture` &nbsp; `Core Web Vitals` &nbsp; `Digital Marketing` &nbsp; `Analytics` &nbsp; `Log File Analysis` &nbsp; `Schema Markup`
+
+---
+
+**[liamhayward.co.uk](https://liamhayward.co.uk/)** &nbsp;|&nbsp; **[LinkedIn](https://uk.linkedin.com/in/liamhayward)**
+
+</div>
 
 <!--
 **liam-hayward/liam-hayward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
