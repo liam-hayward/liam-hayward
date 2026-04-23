@@ -1,7 +1,4 @@
-
-# liam hayward | seo specialist 🔍
-
-*seo that works, technically.*
+![header](https://capsule-render.vercel.app/api?type=rounded&color=EBEBEB&text=liam%20hayward%20|%20seo%20specialist%20%F0%9F%94%8D&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2)
 
 ---
 
