@@ -14,7 +14,7 @@ Finding what isn’t working and fixing it, I improve websites so they are easy 
 
 ---
 
-**[liamhayward.co.uk](https://liamhayward.co.uk/)** &nbsp;|&nbsp; **[LinkedIn](https://uk.linkedin.com/in/liamhayward)**
+**[liamhayward.co.uk](https://liamhayward.co.uk/)** &nbsp;|&nbsp; **[the seo hanbook](https://seohandbook.co.uk/)** &nbsp;|&nbsp; **[LinkedIn](https://uk.linkedin.com/in/liamhayward)**
 
 </div>
 
