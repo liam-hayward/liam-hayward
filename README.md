@@ -8,6 +8,8 @@ I have 7+ years of hands-on digital marketing experience across in-house and age
 
 Finding what isn’t working and fixing it, I improve websites so they are easy to crawl, understand, and trust for both people and search systems – turning search visibility into real business value and technical performance into growth.
 
+I’m currently working on **[the seo hanbook](https://seohandbook.co.uk/)** – a guide to how search works, take a gander.
+
 ---
 
 `Technical SEO` &nbsp; `Site Architecture` &nbsp; `Core Web Vitals` &nbsp; `Digital Marketing` &nbsp; `Analytics` &nbsp; `Log File Analysis` &nbsp; `Schema Markup`
