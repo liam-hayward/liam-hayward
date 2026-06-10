@@ -16,7 +16,7 @@ I’m currently working on **[the seo hanbook](https://seohandbook.co.uk/)** –
 
 ---
 
-**[liamhayward.co.uk](https://liamhayward.co.uk/)** &nbsp;|&nbsp; **[the seo hanbook](https://seohandbook.co.uk/)** &nbsp;|&nbsp; **[LinkedIn](https://uk.linkedin.com/in/liamhayward)**
+**[liamhayward.co.uk](https://liamhayward.co.uk/)** &nbsp;|&nbsp; **[the seo handbook](https://seohandbook.co.uk/)** &nbsp;|&nbsp; **[LinkedIn](https://uk.linkedin.com/in/liamhayward)**
 
 </div>
 
