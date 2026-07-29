@@ -1,36 +1,27 @@
-<a href="https://liamhayward.co.uk/"><img src="https://capsule-render.vercel.app/api?type=rounded&color=EBEBEB&text=liam%20hayward%20|%20seo%20specialist%20%F0%9F%94%8D&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2&desc=seo%20that%20works,%20technically.&descAlignY=75&descAlign=48"> </a>
+<a href="https://liamhayward.co.uk/"><img alt="liam hayward | seo specialist - seo that works, technically." src="https://capsule-render.vercel.app/api?type=rounded&color=EBEBEB&text=liam%20hayward%20|%20seo%20specialist%20%F0%9F%94%8D&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2&desc=seo%20that%20works,%20technically.&descAlignY=75&descAlign=48"></a>
 
 ---
 
-I’m Liam Hayward, an SEO specialist and digital marketer based in the UK.
+I'm Liam Hayward, an SEO specialist and digital marketer based in the UK, working across technical SEO and AI search.
 
-I have 7+ years of hands-on digital marketing experience across in-house and agency roles in the UK, Singapore and Australia.
+7+ years of hands-on experience across in-house and agency roles in the UK, Singapore and Australia, specialising in search and technical SEO since 2022.
 
-Finding what isn’t working and fixing it, I improve websites so they are easy to crawl, understand, and trust for both people and search systems – turning search visibility into real business value and technical performance into growth.
+I find what isn't working and fix it: making sites easy to crawl, understand and trust, for people, for search engines, and now for the models sitting in between.
 
-I’m currently working on **[the seo handbook](https://seohandbook.co.uk/)** – a guide to how search works, take a gander.
-
----
-
-`Technical SEO` &nbsp; `Site Architecture` &nbsp; `Core Web Vitals` &nbsp; `Digital Marketing` &nbsp; `Analytics` &nbsp; `Log File Analysis` &nbsp; `Schema Markup`
+By day I'm under the bonnet of a website. By night I'm building tools, breaking things on purpose, and poking at where search and AI collide next.
 
 ---
 
-**[liamhayward.co.uk](https://liamhayward.co.uk/)** &nbsp;|&nbsp; **[the seo handbook](https://seohandbook.co.uk/)** &nbsp;|&nbsp; **[LinkedIn](https://uk.linkedin.com/in/liamhayward)**
+### what i'm building
 
-</div>
+**[the seo handbook](https://seohandbook.co.uk/)** - a free, independent reference to how search works: technical SEO, content, crawling and indexing, and where AI is changing things.
 
-<!--
-**liam-hayward/liam-hayward** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**[free seo tools](https://liamhayward.co.uk/tools/)** - a little lab of browser-based tools: [indexability checker](https://liamhayward.co.uk/tools/indexability-checker/), [ai visibility audit](https://liamhayward.co.uk/tools/ai-visibility-audit/), [robots.txt tester](https://liamhayward.co.uk/tools/robots-txt-tester/), [sitemap finder](https://liamhayward.co.uk/tools/sitemap-finder/), [seo bookmarklets](https://liamhayward.co.uk/tools/seo-bookmarklets/) and an [seo explainer](https://liamhayward.co.uk/tools/seo-explainer/).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Technical SEO` &nbsp; `AI Search (GEO / AIO)` &nbsp; `Site Architecture` &nbsp; `Schema Markup` &nbsp; `Log File Analysis` &nbsp; `Core Web Vitals` &nbsp; `Analytics` &nbsp; `Python` &nbsp; `Astro + Cloudflare`
+
+---
+
+**[liamhayward.co.uk](https://liamhayward.co.uk/)** &nbsp;|&nbsp; **[the seo handbook](https://seohandbook.co.uk/)** &nbsp;|&nbsp; **[blog](https://liamhayward.co.uk/blog/)** &nbsp;|&nbsp; **[LinkedIn](https://uk.linkedin.com/in/liamhayward)**
