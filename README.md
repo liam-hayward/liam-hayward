@@ -1,4 +1,13 @@
-<a href="https://liamhayward.co.uk/"><img alt="liam hayward | seo specialist - seo that works, technically." src="https://capsule-render.vercel.app/api?type=rounded&color=EBEBEB&text=liam%20hayward%20|%20seo%20specialist%20%F0%9F%94%8D&fontAlignY=50&fontSize=40&height=200&stroke=000000&strokeWidth=2&desc=seo%20that%20works,%20technically.&descAlignY=75&descAlign=48"></a>
+<a href="https://liamhayward.co.uk/">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=rounded&color=0D1117&fontColor=EBEBEB&stroke=EBEBEB&strokeWidth=2&text=liam%20hayward%20%7C%20seo%20specialist%20%F0%9F%94%8D&fontSize=40&fontAlignY=50&height=200&desc=seo%20that%20works,%20technically.&descAlignY=75&descAlign=48">
+    <img
+      alt="liam hayward, seo specialist - seo that works, technically."
+      src="https://capsule-render.vercel.app/api?type=rounded&color=EBEBEB&fontColor=000000&stroke=000000&strokeWidth=2&text=liam%20hayward%20%7C%20seo%20specialist%20%F0%9F%94%8D&fontSize=40&fontAlignY=50&height=200&desc=seo%20that%20works,%20technically.&descAlignY=75&descAlign=48">
+  </picture>
+</a>
 
 ---
 
